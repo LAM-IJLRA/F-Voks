@@ -1,0 +1,14 @@
+[lyrics]
+xsampa: v 2
+
+[score]
+midiNotes: 48
+
+globalTransposition: 0
+
+rhythm: 1
+
+defaultSentenceLoudness: 1
+
+tempo: 120
+

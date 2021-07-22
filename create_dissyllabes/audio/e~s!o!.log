@@ -1,0 +1,30 @@
+06/18/2021 09:41:28::ISiS-INFO::cmd  :/Applications/ISiS_V1.2.8/ISiS/ISiS -m scores/e~SO.txt -o audio/e~s!o!.wav 
+06/18/2021 09:41:28::ISiS-INFO::srate: 48000.0
+06/18/2021 09:41:29::ISiS-INFO::load /Applications/ISiS_V1.2.8/ISiS/lf_cache/lf_params.npy
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::getting input data
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::reading lyrics in xsampa notation from scores/e~SO.txt::lyrics::xsampa.
+06/18/2021 09:41:29::ISiS-INFO::input text is : e~ S O
+06/18/2021 09:41:29::ISiS-INFO::##################### lyrics are in sampa phonetic notation #####################
+06/18/2021 09:41:29::ISiS-INFO::phonemes are : ['_', 'e~', 'S', 'O', '_']
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::computing phonemes lengths
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::warning: can't read phoneme h from consLen file /Users/savagnin/Documents/PaulChable/ISiS_Data/RT/consLen.p. Using internal default value instead.
+06/18/2021 09:41:29::ISiS-INFO::note 0 notePhonemes ['_'] noteLen 0.50 vowLen 0.50 consLen []
+06/18/2021 09:41:29::ISiS-INFO:: add 0.500
+06/18/2021 09:41:29::ISiS-INFO::note 1 notePhonemes ['e~', 'S'] noteLen 0.50 vowLen 0.26 consLen [0.237]
+06/18/2021 09:41:29::ISiS-INFO:: add 0.763
+06/18/2021 09:41:29::ISiS-INFO:: add 1.000
+06/18/2021 09:41:29::ISiS-INFO::note 2 notePhonemes ['O'] noteLen 0.50 vowLen 0.50 consLen []
+06/18/2021 09:41:29::ISiS-INFO:: add 1.500
+06/18/2021 09:41:29::ISiS-INFO::note 3 notePhonemes ['_'] noteLen 0.50 vowLen 0.50 consLen []
+06/18/2021 09:41:29::ISiS-INFO:: add 2.000
+06/18/2021 09:41:29::ISiS-INFO::notes:[ 0. 48. 48.  0.]
+06/18/2021 09:41:29::ISiS-INFO::phonemes:['_', 'e~', 'S', 'O', '_']
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::selecting units
+06/18/2021 09:41:29::ISiS-INFO::#################################################
+06/18/2021 09:41:29::ISiS-INFO::unit labels : _e~/[None],e~/[None],e~S/[None],SO/[None],O/[None],O_/[None]
+06/18/2021 09:41:29::ISiS-INFO::/Users/savagnin/Documents/PaulChable/ISiS_Data/RT doesn't have an addOnsFolder attribute

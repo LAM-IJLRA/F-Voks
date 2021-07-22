@@ -1,0 +1,117 @@
+07/09/2021 08:31:15::ISiS-INFO::cmd  :/Applications/ISiS_V1.2.8/ISiS/ISiS -m scores/Epu.txt -o audio/e!pu.wav 
+07/09/2021 08:31:15::ISiS-INFO::srate: 48000.0
+07/09/2021 08:31:16::ISiS-INFO::load /Applications/ISiS_V1.2.8/ISiS/lf_cache/lf_params.npy
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::getting input data
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::reading lyrics in xsampa notation from scores/Epu.txt::lyrics::xsampa.
+07/09/2021 08:31:16::ISiS-INFO::input text is : E p u
+07/09/2021 08:31:16::ISiS-INFO::##################### lyrics are in sampa phonetic notation #####################
+07/09/2021 08:31:16::ISiS-INFO::phonemes are : ['_', 'E', 'p', 'u', '_']
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::computing phonemes lengths
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::warning: can't read phoneme h from consLen file /Users/savagnin/Documents/PaulChable/ISiS_Data/RT/consLen.p. Using internal default value instead.
+07/09/2021 08:31:16::ISiS-INFO::note 0 notePhonemes ['_'] noteLen 0.50 vowLen 0.50 consLen []
+07/09/2021 08:31:16::ISiS-INFO:: add 0.500
+07/09/2021 08:31:16::ISiS-INFO::note 1 notePhonemes ['E', 'p'] noteLen 0.50 vowLen 0.37 consLen [0.13]
+07/09/2021 08:31:16::ISiS-INFO:: add 0.870
+07/09/2021 08:31:16::ISiS-INFO:: add 1.000
+07/09/2021 08:31:16::ISiS-INFO::note 2 notePhonemes ['u'] noteLen 0.50 vowLen 0.50 consLen []
+07/09/2021 08:31:16::ISiS-INFO:: add 1.500
+07/09/2021 08:31:16::ISiS-INFO::note 3 notePhonemes ['_'] noteLen 0.50 vowLen 0.50 consLen []
+07/09/2021 08:31:16::ISiS-INFO:: add 2.000
+07/09/2021 08:31:16::ISiS-INFO::notes:[ 0. 48. 48.  0.]
+07/09/2021 08:31:16::ISiS-INFO::phonemes:['_', 'E', 'p', 'u', '_']
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::selecting units
+07/09/2021 08:31:16::ISiS-INFO::#################################################
+07/09/2021 08:31:16::ISiS-INFO::unit labels : _E/[None],E/[None],Ep/[None],pu/[None],u/[None],u_/[None]
+07/09/2021 08:31:16::ISiS-INFO::/Users/savagnin/Documents/PaulChable/ISiS_Data/RT doesn't have an addOnsFolder attribute
+07/09/2021 08:31:17::ISiS-INFO::selecting best units using viterbi algorithm
+07/09/2021 08:31:17::ISiS-INFO::unit _E   file  879 times [0.307500, 0.900000, 1.271344], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit E    file  898 times [1.037375, 2.445521], db /Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit Ep   file  627 times [1.435281, 1.870000, 1.961219], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit pu   file  758 times [1.210000, 1.250000, 1.789969], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit u    file  903 times [1.368250, 2.346425], db /Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit u_   file  498 times [2.937281, 3.505000, 4.005000], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::create_units::final list of units
+07/09/2021 08:31:17::ISiS-INFO::unit _E   file  879 times [0.000000, 0.900000, 0.920000], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit E    file  898 times [1.037375, -1.000000, 1.211614], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit Ep   file  627 times [1.694239, 1.870000, 1.965062], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit pu   file  758 times [1.164847, 1.250000, 1.279917], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit u    file  903 times [1.368250, -1.000000, 1.741830], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::unit u_   file  498 times [3.408497, 3.505000, 4.205000], db/Users/savagnin/Documents/PaulChable/ISiS_Data/RT
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::computing f0 curve
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::F0 style params:None
+07/09/2021 08:31:17::ISiS-INFO::xmlFileName:/tmp/ISiS/TEMP/f0/f0Params.xml
+07/09/2021 08:31:17::ISiS-INFO::write xml f0 params file to be used for f0 curve generation
+07/09/2021 08:31:17::ISiS-INFO::start generating f0 curve from F0 XML file /tmp/ISiS/TEMP/f0/f0Params.xml
+07/09/2021 08:31:17::ISiS-INFO::generating f0 model parameters and setting knots and weights for B-splines
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type silence from 0.0 to 0.5
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type attack from 0.5 to 0.65
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type sustain from 0.65 to 0.8654999999999998
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type trans from 0.8654999999999998 to 1.0044999999999997
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type sustain from 1.0044999999999997 to 1.425
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type release from 1.425 to 1.5
+07/09/2021 08:31:17::ISiS-INFO::processing segment of type silence from 1.5 to 2.0
+07/09/2021 08:31:17::ISiS-INFO::generating F0 curve from from knots and weights
+07/09/2021 08:31:17::ISiS-INFO::gen_f0_curve_from_params_file:: f0Curve target min 116.540932 max 137.869141
+07/09/2021 08:31:17::ISiS-INFO::gen_jitter_from_templates:: jitter min -0.006673 max 0.007016
+07/09/2021 08:31:17::ISiS-INFO::add phonetic templates
+07/09/2021 08:31:17::ISiS-INFO::add jitter
+07/09/2021 08:31:17::ISiS-INFO::generate loudness XML file /tmp/ISiS/TEMP/loudness/loudnessParams.xml from score
+07/09/2021 08:31:17::ISiS-INFO::loudness style config:None
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::synthesizing sound
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::PAN_concat_sing_engine:start synth of audio/e!pu.wav
+07/09/2021 08:31:17::ISiS-INFO::rd:: rd - f0.000, b0.300, t1.000
+07/09/2021 08:31:17::ISiS-INFO::synth seg 0.000, 0.500 phoneme _ stretch 0.556
+07/09/2021 08:31:17::ISiS-INFO::synth seg 0.500, 0.870 phoneme E stretch 1.000
+07/09/2021 08:31:17::ISiS-INFO::synth seg 0.870, 1.000 phoneme p stretch 0.721
+07/09/2021 08:31:17::ISiS-INFO::synth seg 1.000, 1.500 phoneme u stretch 1.000
+07/09/2021 08:31:17::ISiS-INFO::synth seg 1.500, 2.000 phoneme _ stretch 0.714
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::PaN generate controls 
+07/09/2021 08:31:17::ISiS-INFO::#################################################
+07/09/2021 08:31:17::ISiS-INFO::u:    1 f: 879 di 0.000-0.920 sou: 0.000- 0.895, conc: 0.000- 0.895, syn: 0.000:: ['_E']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 879 di 0.000-0.920 sou: 0.895- 0.920, conc: 0.895- 0.920, syn: 0.497:: ['_E']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 898 di 1.037-1.212 sou: 1.037- 1.212, conc: 0.920- 1.094, syn: 0.520:: ['E']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 627 di 1.694-1.965 sou: 1.694- 1.890, conc: 1.094- 1.290, syn: 0.694:: ['Ep']
+07/09/2021 08:31:17::ISiS-INFO::u:    1 f: 627 di 1.694-1.965 sou: 1.890- 1.965, conc: 1.290- 1.365, syn: 0.884:: ['Ep']
+07/09/2021 08:31:17::ISiS-INFO::u:    1 f: 758 di 1.165-1.280 sou: 1.165- 1.250, conc: 1.365- 1.450, syn: 0.939:: ['pu']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 758 di 1.165-1.280 sou: 1.250- 1.280, conc: 1.450- 1.480, syn: 1.000:: ['pu']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 903 di 1.368-1.742 sou: 1.368- 1.742, conc: 1.480- 1.854, syn: 1.030:: ['u']
+07/09/2021 08:31:17::ISiS-INFO::u:    0 f: 498 di 3.408-4.205 sou: 3.408- 3.520, conc: 1.854- 1.965, syn: 1.403:: ['u_']
+07/09/2021 08:31:17::ISiS-INFO::u:    1 f: 498 di 3.408-4.205 sou: 3.520- 4.205, conc: 1.965- 2.650, syn: 1.511:: ['u_']
+07/09/2021 08:31:17::ISiS-INFO::PaN::phonemes:['_', 'E', 'p', 'u', '_']
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 0.0000/0.0000 seg_end: 0.8950/0.4972 from 879 start:0.0000 end:0.8950 dip 0.0000-0.9200
+07/09/2021 08:31:17::ISiS-INFO::unvoiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 0.8950/0.4972 seg_end: 0.9200/0.5200 from 879 start:0.8950 end:1.0374 dip 0.0000-0.9200
+07/09/2021 08:31:17::ISiS-INFO::voiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 0.9200/0.5200 seg_end: 1.0942/0.6942 from 898 start:1.0374 end:1.6942 dip 1.0374-1.2116
+07/09/2021 08:31:17::ISiS-INFO::voiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 1.0942/0.6942 seg_end: 1.2900/0.8844 from 627 start:1.6942 end:1.8900 dip 1.6942-1.9651
+07/09/2021 08:31:17::ISiS-INFO::voiced segment
+07/09/2021 08:31:17::ISiS-INFO::extend vuf value at 1.885721 from 1.885594 = 1558.593750Hz
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 1.2900/0.8844 seg_end: 1.3651/0.9386 from 627 start:1.8900 end:1.1648 dip 1.6942-1.9651
+07/09/2021 08:31:17::ISiS-INFO::unvoiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 1.3651/0.9386 seg_end: 1.4502/1.0000 from 758 start:1.1648 end:1.2500 dip 1.1648-1.2799
+07/09/2021 08:31:17::ISiS-INFO::unvoiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 1.4502/1.0000 seg_end: 1.4801/1.0299 from 758 start:1.2500 end:1.3683 dip 1.1648-1.2799
+07/09/2021 08:31:17::ISiS-INFO::voiced segment
+07/09/2021 08:31:17::ISiS-INFO::seg_start: 1.4801/1.0299 seg_end: 1.8537/1.4035 from 903 start:1.3683 end:3.4085 dip 1.3683-1.7418
+07/09/2021 08:31:17::ISiS-INFO::voiced segment
+07/09/2021 08:31:18::ISiS-INFO::seg_start: 1.8537/1.4035 seg_end: 1.9652/1.5107 from 498 start:3.4085 end:3.5200 dip 3.4085-4.2050
+07/09/2021 08:31:18::ISiS-INFO::voiced segment
+07/09/2021 08:31:18::ISiS-INFO::seg_start: 1.9652/1.5107 seg_end: 2.6502/2.0000 from 498 start:3.5200 end:4.2050 dip 3.4085-4.2050
+07/09/2021 08:31:18::ISiS-INFO::unvoiced segment
+07/09/2021 08:31:18::ISiS-INFO::#################################################
+07/09/2021 08:31:18::ISiS-INFO::PaN voiced synthesis 
+07/09/2021 08:31:18::ISiS-INFO::#################################################
+07/09/2021 08:31:18::ISiS-INFO::#################################################
+07/09/2021 08:31:18::ISiS-INFO::PaN unvoiced synthesis 
+07/09/2021 08:31:18::ISiS-INFO::#################################################
