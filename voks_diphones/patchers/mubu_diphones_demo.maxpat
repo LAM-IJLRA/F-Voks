@@ -2953,8 +2953,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1883.125, 185.0, 162.0, 21.0 ],
-					"text" : "read ../data/mubu_position.json"
+					"patching_rect" : [ 1883.125, 185.0, 153.0, 21.0 ],
+					"text" : "read data/mubu_position.json"
 				}
 
 			}
@@ -8867,8 +8867,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 994.125, 185.0, 160.0, 21.0 ],
-					"text" : "read ../data/mubu_velocity.json"
+					"patching_rect" : [ 994.125, 185.0, 151.0, 21.0 ],
+					"text" : "read data/mubu_velocity.json"
 				}
 
 			}
@@ -9072,7 +9072,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-4",
@@ -9117,7 +9116,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "bang", "" ],
-									"patching_rect" : [ 50.0, 75.0, 232.0, 22.0 ],
+									"patching_rect" : [ 50.0, 75.0, 222.0, 22.0 ],
 									"text" : "t b s"
 								}
 
@@ -9129,8 +9128,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 98.0, 161.0, 184.0, 22.0 ],
-									"text" : "sprintf %s../diphones/flat/%s.wav"
+									"patching_rect" : [ 98.0, 161.0, 174.0, 22.0 ],
+									"text" : "sprintf %sdiphones/flat/%s.wav"
 								}
 
 							}
@@ -12706,14 +12705,14 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "play_diphones.maxpat",
-				"bootpath" : "~/Documents/PaulChable/VoksPlus/git/voks_diphones/patchers",
+				"bootpath" : "~/Documents/PaulChable/VoksPlus/voks_diphones/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "wrap~.maxpat",
-				"bootpath" : "~/Documents/PaulChable/VoksPlus/git/voks_diphones/patchers",
+				"bootpath" : "~/Documents/PaulChable/VoksPlus/voks_diphones/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

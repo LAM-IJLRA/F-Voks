@@ -167,7 +167,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1468.625, 399.0, 150.0, 20.0 ],
+					"patching_rect" : [ 1430.643518518518249, 399.0, 150.0, 20.0 ],
 					"text" : "Get info on mubu model"
 				}
 
@@ -179,7 +179,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1468.625, 425.576939284801483, 39.0, 22.0 ],
+					"patching_rect" : [ 1430.643518518518249, 425.576939284801483, 39.0, 22.0 ],
 					"text" : "dump"
 				}
 
@@ -502,7 +502,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1468.625, 676.0, 50.0, 35.0 ],
+					"patching_rect" : [ 1430.643518518518249, 676.0, 50.0, 35.0 ],
 					"text" : "0.999992"
 				}
 
@@ -7326,7 +7326,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1649.625, 512.0, 43.0, 22.0 ],
+					"patching_rect" : [ 1611.643518518518249, 512.0, 43.0, 22.0 ],
 					"text" : "s label"
 				}
 
@@ -7339,7 +7339,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1595.625, 512.0, 50.0, 22.0 ]
+					"patching_rect" : [ 1560.902777777777601, 512.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -7357,7 +7357,7 @@
 					"orientation" : 0,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1789.625, 676.0, 244.5, 35.0 ],
+					"patching_rect" : [ 1751.643518518518249, 676.0, 244.5, 35.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 3,
 					"slidercolor" : [ 0.0381, 0.27339, 0.458347, 1.0 ]
@@ -7372,7 +7372,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1789.625, 513.0, 81.0, 21.0 ],
+					"patching_rect" : [ 1751.643518518518249, 513.0, 81.0, 21.0 ],
 					"text" : "print hhmm-vel"
 				}
 
@@ -7385,7 +7385,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1342.0, 647.0, 92.0, 20.0 ],
+					"patching_rect" : [ 1274.0, 647.0, 92.0, 20.0 ],
 					"text" : "log-likelihood"
 				}
 
@@ -7412,7 +7412,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1694.625, 514.0, 82.0, 19.0 ],
+					"patching_rect" : [ 1656.643518518518249, 514.0, 82.0, 19.0 ],
 					"text" : "Likeliest Label"
 				}
 
@@ -7425,7 +7425,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1684.125, 647.0, 243.0, 20.0 ],
+					"patching_rect" : [ 1646.143518518518249, 647.0, 243.0, 20.0 ],
 					"text" : "alpha: probability of each state"
 				}
 
@@ -7438,7 +7438,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1576.125, 647.0, 92.0, 20.0 ],
+					"patching_rect" : [ 1538.143518518518249, 647.0, 92.0, 20.0 ],
 					"text" : "log-likelihood"
 				}
 
@@ -7452,7 +7452,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1575.625, 588.0, 100.0, 59.0 ],
+					"patching_rect" : [ 1537.643518518518249, 588.0, 100.0, 59.0 ],
 					"setminmax" : [ -150.0, 0.0 ],
 					"setstyle" : 1
 				}
@@ -7466,7 +7466,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1468.625, 647.0, 93.0, 20.0 ],
+					"patching_rect" : [ 1430.643518518518249, 647.0, 93.0, 20.0 ],
 					"text" : "likelihood"
 				}
 
@@ -7480,7 +7480,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1468.625, 588.0, 100.0, 59.0 ],
+					"patching_rect" : [ 1430.643518518518249, 588.0, 100.0, 59.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1
 				}
@@ -7494,7 +7494,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1616.625, 536.0, 150.0, 19.0 ],
+					"patching_rect" : [ 1578.643518518518249, 536.0, 150.0, 19.0 ],
 					"text" : "route by label (here: likeliest)"
 				}
 
@@ -7512,7 +7512,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1682.625, 588.0, 244.5, 59.0 ],
+					"patching_rect" : [ 1644.643518518518249, 588.0, 244.5, 59.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1,
 					"size" : 10,
@@ -7529,7 +7529,7 @@
 					"numinlets" : 5,
 					"numoutlets" : 5,
 					"outlettype" : [ "", "", "", "", "" ],
-					"patching_rect" : [ 1468.625, 563.0, 447.0, 21.0 ],
+					"patching_rect" : [ 1430.643518518518249, 563.0, 447.0, 21.0 ],
 					"text" : "route likelihood loglikelihood alpha progress"
 				}
 
@@ -7543,7 +7543,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1468.625, 536.0, 146.0, 21.0 ],
+					"patching_rect" : [ 1430.643518518518249, 536.0, 146.0, 21.0 ],
 					"text" : "route 1"
 				}
 
@@ -7557,7 +7557,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1468.625, 512.0, 69.0, 21.0 ],
+					"patching_rect" : [ 1430.643518518518249, 512.0, 69.0, 21.0 ],
 					"text" : "route model"
 				}
 
@@ -7575,7 +7575,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1342.0, 546.0, 101.0, 101.0 ],
+					"patching_rect" : [ 1274.0, 546.0, 101.0, 101.0 ],
 					"setminmax" : [ -100.0, 0.0 ],
 					"setstyle" : 1,
 					"size" : 10,
@@ -7596,7 +7596,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1170.125, 546.0, 163.0, 101.0 ],
+					"patching_rect" : [ 1170.125, 546.0, 105.375, 101.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1,
 					"size" : 10,
@@ -7680,7 +7680,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 5,
 					"outlettype" : [ "", "", "", "", "" ],
-					"patching_rect" : [ 1170.125, 475.5, 616.0, 24.0 ],
+					"patching_rect" : [ 1170.125, 475.5, 540.037037037036725, 24.0 ],
 					"text" : "mubu.hhmm hhmm-2d velocity @transitionmode left-right @algorithm hierarchical"
 				}
 
@@ -9951,7 +9951,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "mubu.setlabels.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/MuBu For Max/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/MuBu For Max/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/MuBu For Max/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
