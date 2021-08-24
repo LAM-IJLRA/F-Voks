@@ -1,0 +1,3 @@
+# F-Voks
+
+L'instrument F-Voks est un synthétiseur vocal performatif par contrôle gestuel composé d'une interface comprenant deux tablettes graphique, d'une base d'échantillons sonores de dissyllabes chantés, ainsi qu'un moteur de synthèse fonctionnant par concaténation d'échantillons sonores avec un vocodeur. Cet instrument permet de générer des phonèmes, ensuite transformés en voix, à partir de gestes sur une tablette graphique et de contrôler la hauteur et l'effort vocal sur la voix synthétisée. Les voyelles sont représentées pas un espace vocalique (triangle ou trapèze vocalique) sur une surface. Les gestes générant les consonnes sont des associations de mouvements des doigts.
