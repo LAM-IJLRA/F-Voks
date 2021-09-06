@@ -67,7 +67,7 @@ This second audio example use a majority of fricative and liquid consonants.
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colasRT4_IS_2.png)
+![f-voks](images/colasRT4_IS.png)
 
 ### Audio sample generated with F-Voks n°1
 For this first audio sample generated with F-Voks the focus was on the speed and rythm of generation.
@@ -77,7 +77,7 @@ For this first audio sample generated with F-Voks the focus was on the speed and
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colasRT4_V1_2.png)
+![f-voks](images/colasRT4_V1.png)
 
 ### Audio sample generated with F-Voks n°2
 For this second audio sample the focus was on the vocal expression, especially to recreate the vibrato of the original recording.
@@ -87,6 +87,6 @@ For this second audio sample the focus was on the vocal expression, especially t
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colasRT4_V2_2.png)
+![f-voks](images/colasRT4_V2.png)
 
 
