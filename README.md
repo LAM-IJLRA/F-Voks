@@ -28,6 +28,8 @@ Your browser does not support the audio element.
 This section present examples of audio generated with ISiS and then attempted to be recreated with F-Voks.
 
 ### First audio sample generated with ISiS
+This first audio example use a majority of plosive consonants.
+
 <audio controls>
   <source src="samples/colasRT1_IS.wav" type="audio/wav">
 Your browser does not support the audio element.
@@ -58,6 +60,7 @@ Your browser does not support the audio element.
 
 
 ### Second audio sample generated with ISiS
+This second audio example use a majority of fricative and liquid consonants.
 
 <audio controls>
   <source src="samples/colasRT4_IS.wav" type="audio/wav">
