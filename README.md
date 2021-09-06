@@ -27,26 +27,63 @@ Your browser does not support the audio element.
 ## Comparison of audio samples generated with ISiS and F-Voks
 This section present examples of audio generated with ISiS and then attempted to be recreated with F-Voks.
 
-### Audio sample generated with ISiS
+### First audio sample generated with ISiS
 <audio controls>
-  <source src="samples/colasRT.wav" type="audio/wav">
+  <source src="samples/colasRT1_IS.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colas1.png)
+![f-voks](images/colasRT1_IS.png)
 
 ### Audio sample generated with F-Voks n°1
+For this first audio sample generated with F-Voks the focus was on the speed and rythm of generation.
+
 <audio controls>
-  <source src="samples/colasRT_V1.wav" type="audio/wav">
+  <source src="samples/colasRT1_V1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colas2.png)
+![f-voks](images/colasRT1_V1.png)
 
 ### Audio sample generated with F-Voks n°2
+For this second audio sample the focus was on the vocal expression, especially to recreate the vibrato of the original recording.
+
 <audio controls>
-  <source src="samples/colasRT_V2.wav" type="audio/wav">
+  <source src="samples/colasRT1_V2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
-![f-voks](images/colas3.png)
+![f-voks](images/colasRT1_V2.png)
+
+
+
+### Second audio sample generated with ISiS
+
+<audio controls>
+  <source src="samples/colasRT4_IS.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+![f-voks](images/colasRT4_IS.png)
+
+### Audio sample generated with F-Voks n°1
+For this first audio sample generated with F-Voks the focus was on the speed and rythm of generation.
+
+<audio controls>
+  <source src="samples/colasRT4_V1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+![f-voks](images/colasRT4_V1.png)
+
+### Audio sample generated with F-Voks n°2
+For this second audio sample the focus was on the vocal expression, especially to recreate the vibrato of the original recording.
+
+<audio controls>
+  <source src="samples/colasRT4_V2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+![f-voks](images/colasRT4_V2.png)
+
+
