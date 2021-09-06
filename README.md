@@ -73,7 +73,7 @@ Your browser does not support the audio element.
 For this first audio sample generated with F-Voks the focus was on the speed and rythm of generation.
 
 <audio controls>
-  <source src="samples/colasRT4_V1.wav" type="audio/wav">
+  <source src="samples/colasRT4_V1_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -83,7 +83,7 @@ Your browser does not support the audio element.
 For this second audio sample the focus was on the vocal expression, especially to recreate the vibrato of the original recording.
 
 <audio controls>
-  <source src="samples/colasRT4_V2.wav" type="audio/wav">
+  <source src="samples/colasRT4_V2_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
