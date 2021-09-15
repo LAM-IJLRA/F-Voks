@@ -94,7 +94,7 @@ Your browser does not support the audio element.
 
 ## How to use F-Voks from scratch
 
-### Create a base audio samples
+### Create a base of audio samples
 
 In order to use F-Voks we need to generate a base of all the dissylables we need. It can be achieve by modifying and executing the gen_dissylables.sh script in the create_dissylables folder
 
