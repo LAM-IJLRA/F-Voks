@@ -90,3 +90,20 @@ Your browser does not support the audio element.
 ![f-voks](images/colasRT4_V2.png)
 
 
+
+
+## How to use F-Voks from scratch
+
+### Create a base audio samples
+
+In order to use F-Voks we need to generate a base of all the dissylables we need. It can be achieve by modifying and executing the gen_dissylables.sh script in the create_dissylables folder
+
+### Indexing audio samples
+
+In order to use the audio samples created we need to index each of them. An index for an audio sample consist in a .txt file with the same file name and consist in two values separated by a line break. The first value is a position value of the audio sample corresponding to a clear starting vowel (no co-articulation), the second value is a position value corresponding to a clear ending vowel. 
+
+To index properly an audio sample the file index_dissylabes.maxpat in the create_dissylables folder can be used. It allows to test the sounding of audio samples at each position with the SuperVP Vocoder and to test the mixing of two audio samples at a specific position.
+
+### Gesture training
+
+### Play with F-Voks
