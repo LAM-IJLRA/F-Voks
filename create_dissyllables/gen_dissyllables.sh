@@ -1,9 +1,9 @@
 # Specify all possible vowels and transitions, and every combination will be generated
 # The format is XSAMPA (see https://isis-documentation.readthedocs.io/en/latest/XSampa.html)
 
-vowels1=(e a i 2 o)         # list of starting vowels
-transitions=(R s l t k) 		# list of consonantic transitions (can be empty ("") or more than one consonant)
-vowels2=(e a i 2 o)         # list of ending vowels
+vowels1=(a e)         # list of starting vowels (use a space between each vowel)
+transitions=("") 		# list of consonantic transitions (can be empty ("") or more than one consonant)
+vowels2=(a e)         # list of ending vowels (use a space between each vowel)
 
 # a e E 2 9 @ i o O u y o~ a~ e~ 9~
 # v z Z f s S b d g p t k m n N R l
